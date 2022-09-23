@@ -24,32 +24,5 @@ Please refer the code for better understanding of the procedure.
 
 ## Results
 
-<div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/output1.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/thresh1.jpg" />
-</div>
-<br /><br />
-
-<div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/output2.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/thresh2.jpg" />
-</div>
-<br /><br />
-
-<div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/output3.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/thresh3.jpg" />
-</div>
-<br /><br />
-
-<div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/output4.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/thresh4.jpg" />
-</div>
-<br /><br />
-
-<div style="float:left">
-<div style="float:left"><img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/output5.jpg" />
-<img width="45%" src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/images/thresh5.jpg" />
-</div>
-<br /><br />
+<img src="https://github.com/Sudarshana2000/hand-gesture-recognition/blob/master/output.png" />
+<br />
